@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="블루투스 ON">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btnWeb1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="티셔츠 다리기" />
+
+    <Button
+        android:id="@+id/btnWeb2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="린넨 다리기" />
+
+    <Button
+        android:id="@+id/btnWeb3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="레이스 다리기" />
+
+    <Button
+    android:id="@+id/btnWeb4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="스커트, 수트 다리기" />
+
+    <Button
+        android:id="@+id/btnWeb5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="바지 다리기" />
+
+    <Button
+    android:id="@+id/btnWeb6"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="청바지 다리기" />
+
+    <Button
+        android:id="@+id/btnWeb7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="셔츠 다리기" />
+
+    <Button
+        android:id="@+id/btnWeb8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="재킷 다리기" />
+    <Button
+
+        android:id="@+id/btn_exit"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="블루투스 OFF"/>
+
+
+</LinearLayout>
